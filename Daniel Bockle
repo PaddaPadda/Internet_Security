@@ -1,0 +1,25 @@
+1.http://www.bbc.com/news/world-europe-37708351 
+  "cyber attack" :an attempt by hackers to damage or destroy a computer network or system 
+2.http://www.bbc.com/news/technology-37796986
+  "leak"(of secret information) become known
+3.http://www.bbc.com/news/election-us-2016-37634520
+  "probe"
+4.http://www.bbc.com/news/election-us-2016-37634520
+  "breach" An act from outside an organization that bypasses or contravenes security policies, practices, or procedures
+5.https://www.ddosattacks.net/bookmakers-william-hill-under-siege-from-ddos-internet-flood/
+  "DDOS" distributed denial of service, denoting the intentional paralysing of a computer network by flooding it with data sent simultaneously from many individual computers.
+
+1.Advanced Persistent Threat: An advanced persistent threat is a set of stealthy and continuous computer hacking processes, often orchestrated by human targeting a specific entity
+2.Backdoor:a feature or defect of a computer system that allows surreptitious unauthorized access to data
+3.botnet:clusters of infected PCs that spammers can control from anywhere in the world
+4.brute force:In cryptography, a brute-force attack consists of an attacker trying many passwords or passphrases with the hope of eventually guessing correctly
+5.exploit:In computing, an exploit is an attack on a computer system, especially one that takes advantage of a particular vulnerability that the system offers to intruders
+6.key logger:a software program or hardware device that records all keystrokes on a computer keyboard, used either overtly as a surveillance tool or covertly as spyware.
+7.logic bomb:a set of instructions secretly incorporated into a program so that if a particular condition is satisfied they will be carried out, usually with harmful effects.
+8.Macro virus:Macro viruses add their code to the macros associated with documents, spreadsheets and other data files
+9.port scan *tabjacking:Port scanner is an application designed to probe a server or host for open ports. This is often used by administrators to verify security policies of their networks and by attackers to identify services running on a host and exploit vulnerabilities
+10.ransomware:Ransomware is computer malware that installs covertly on a victim's computer, executes a cryptovirology attack that adversely affects it, and demands a ransom payment to decrypt it or not publish it
+11.rootkit:a set of software tools that enable an unauthorized user to gain control of a computer system without being detected
+12.worm:a self-replicating program able to propagate itself across a network, typically having a detrimental effect
+13.A zero-day (also known as zero-hour or 0-day or day zero) vulnerability is an undisclosed computer-software vulnerability that hackers can exploit to adversely affect computer programs, data, additional computers or a network
+14.zombie:In computer science, a zombie is a computer connected to the Internet that has been compromised by a hacker, computer virus or trojan horse program and can be used to perform malicious tasks of one sort or another under remote direction
